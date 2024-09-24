@@ -18,7 +18,9 @@ Ensure you have Python installed, then install the necessary libraries:
 pip install -r requirements.txt
 ```
 3. Set Up GPT-4o API Key
-To connect with the GPT-4o API, set your API key as an environment variable. Extract your openAI API Key from openAI official's site and update it in the config.json
+   
+   To connect with the GPT-4o API, set your API key as an environment variable. Extract your openAI API Key from openAI official's site and update it in the config.json
+
 4. Run the Chatbot
 Launch the chatbot with Streamlit:
 ```
